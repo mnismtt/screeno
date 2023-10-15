@@ -55,7 +55,7 @@
         <img src="/images/hero-image-mobile.png" class="absolute -bottom-4 -left-3 hidden md:block" alt="Hero" />
       </div>
     </div>
-		<div class="flex justify-between mt-32 space-x-24">
+		<div class="flex flex-wrap justify-center items-center mt-12 md:mt-32 space-y-4 md:space-y-0 md:space-x-4">
 			<img
 				src="/images/apple-tv.svg"
 				class="transform transition duration-300 hover:scale-110 cursor-pointer"
