@@ -34,20 +34,20 @@
 	]
 </script>
 
-<section class="py-20 text-white bg-black">
+<section class="py-8 md:py-20 text-white bg-black">
   <div class="max-w-screen-xl mx-auto">
-    <div class="flex flex-col md:flex-row items-center space-y-8 md:space-y-0 md:space-x-24">
+    <div class="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-8 lg:space-x-24">
       <div class="flex flex-col w-full md:w-1/2">
-        <div class="flex flex-col space-y-4">
-          <h1 class="text-4xl md:text-5xl font-bold font-heading">Reach more people in real time</h1>
-          <p>
+        <div class="flex flex-col space-y-2 md:space-y-4">
+          <h1 class="text-2xl md:text-4xl lg:text-5xl font-bold font-heading">Reach more people in real time</h1>
+          <p class="text-sm md:text-base">
             The Screeno ecosystem is designed to help you generate profit. Set up complete sales and
-            marketing funnels with ease using the Screeno
+            marketing funnels with ease using the Screeno.
           </p>
         </div>
-        <div class="flex mt-8 md:mt-12 space-x-3">
-          <button class="w-full md:w-1/3 primary">Start Free Trial</button>
-          <button class="w-full md:w-1/3 outline">Login</button>
+        <div class="flex mt-4 md:mt-8 lg:mt-12 space-y-2 md:space-y-0 md:space-x-3">
+          <button class="w-full md:w-1/3 lg:w-1/4 primary">Start Free Trial</button>
+          <button class="w-full md:w-1/3 lg:w-1/4 outline">Login</button>
         </div>
       </div>
       <div class="relative w-full md:w-1/2">
@@ -55,34 +55,34 @@
         <img src="/images/hero-image-mobile.png" class="absolute -bottom-4 -left-3 hidden md:block" alt="Hero" />
       </div>
     </div>
-		<div class="flex flex-wrap justify-center items-center mt-12 md:mt-32 space-y-4 md:space-y-0 md:space-x-4">
-			<img
-				src="/images/apple-tv.svg"
-				class="transform transition duration-300 hover:scale-110 cursor-pointer"
-				alt="Apple TV"
-			/>
-			<img
-				src="/images/android-tv.svg"
-				class="transform transition duration-300 hover:scale-110 cursor-pointer"
-				alt="Android TV"
-			/>
-			<img
-				src="/images/apple-watch.svg"
-				class="transform transition duration-300 hover:scale-110 cursor-pointer"
-				alt="Apple Watch"
-			/>
-			<img
-				src="/images/iphone.svg"
-				class="transform transition duration-300 hover:scale-110 cursor-pointer"
-				alt="iPhone"
-			/>
-			<img
-				src="/images/android.svg"
-				class="transform transition duration-300 hover:scale-110 cursor-pointer"
-				alt="Android"
-			/>
-		</div>
-	</div>
+    <div class="flex justify-between mt:8 md:mt-12 lg:mt-16 space-x-4 md:space-x-8">
+      <img
+        src="/images/apple-tv.svg"
+        class="transform transition duration-300 hover:scale-110 cursor-pointer w-12 md:w-16 lg:w-20"
+        alt="Apple TV"
+      />
+      <img
+        src="/images/android-tv.svg"
+        class="transform transition duration-300 hover:scale-110 cursor-pointer w-12 md:w-16 lg:w-20"
+        alt="Android TV"
+      />
+      <img
+        src="/images/apple-watch.svg"
+        class="transform transition duration-300 hover:scale-110 cursor-pointer w-12 md:w-16 lg:w-20"
+        alt="Apple Watch"
+      />
+      <img
+        src="/images/iphone.svg"
+        class="transform transition duration-300 hover:scale-110 cursor-pointer w-12 md:w-16 lg:w-20"
+        alt="iPhone"
+      />
+      <img
+        src="/images/android.svg"
+        class="transform transition duration-300 hover:scale-110 cursor-pointer w-12 md:w-16 lg:w-20"
+        alt="Android"
+      />
+    </div>
+  </div>
 </section>
 
 <section class="py-20">
@@ -204,13 +204,13 @@
 	</div>
 
 	<div class="flex flex-col overflow-hidden mt-24 space-y-6">
-		<div class="flex space-x-8">
+		<div class="flex space-x-8 justify-between">
 			<img src="/images/showcase-1.png" alt="Showcase 1" class="w-[360px] h-[201px]" />
 			<img src="/images/showcase-2.png" alt="Showcase 2" class="w-[360px] h-[201px]" />
 			<img src="/images/showcase-3.png" alt="Showcase 3" class="w-[360px] h-[201px]" />
 			<img src="/images/showcase-4.png" alt="Showcase 4" class="w-[360px] h-[201px]" />
 		</div>
-		<div class="flex space-x-8 -translate-x-72">
+		<div class="flex space-x-8 justify-between">
 			<img src="/images/showcase-5.png" alt="Showcase 5" class="w-[360px] h-[201px]" />
 			<img src="/images/showcase-6.png" alt="Showcase 6" class="w-[360px] h-[201px]" />
 			<img src="/images/showcase-7.png" alt="Showcase 7" class="w-[360px] h-[201px]" />
