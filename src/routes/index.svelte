@@ -130,26 +130,6 @@
       </div>
       <div class="relative w-full md:w-1/2">
         <img src="/images/monetization.png" alt="Monetize your way" class="w-full h-full" />
-        <div class="absolute flex flex-col md:flex-row py-8 space-y-3 md:space-x-16 text-black bg-white px-9 rounded-3xl -top-4 -right-4">
-					<div
-						class="flex w-full px-3 py-4 space-x-16 font-semibold transition duration-300 transform bg-gray-100 font-heading rounded-xl hover:bg-blue-100 hover:text-primary hover:translate-x-1 hover:-translate-y-1 hover:shadow-xl"
-					>
-						<p>Donate</p>
-						<p>45$</p>
-					</div>
-					<div
-						class="flex w-full px-3 py-4 space-x-16 font-semibold transition duration-300 transform bg-gray-100 font-heading rounded-xl hover:bg-blue-100 hover:text-primary hover:translate-x-1 hover:-translate-y-1 hover:shadow-xl"
-					>
-						<p>Donate</p>
-						<p>45$</p>
-					</div>
-					<div
-						class="flex w-full px-3 py-4 space-x-16 font-semibold transition duration-300 transform bg-gray-100 font-heading rounded-xl hover:bg-blue-100 hover:text-primary hover:translate-x-1 hover:-translate-y-1 hover:shadow-xl"
-					>
-						<p>Donate</p>
-						<p>45$</p>
-					</div>
-				</div>
 			</div>
 		</div>
 
@@ -157,12 +137,6 @@
 			<div class="flex flex-col md:flex-row justify-center md:items-center space-y-12 md:space-y-0 md:space-x-24">
 				<div class="w-full md:w-1/2 relative">
 					<img src="/images/optimized.png" class="w-full h-full" alt="Optimized for growth" />
-					<div class="absolute px-4 py-3 bg-white -top-4 -right-4 rounded-2xl">
-						<div class="relative">
-							<img src="/icons/email-black.svg" alt="Email Icon" class="w-8 h-6" />
-							<span class="absolute text-xs rounded-full -top-2 -right-2 bg-primary px-[6px] py-[1px] font-heading font-bold">1</span>
-						</div>
-					</div>
 				</div>
 				<div class="w-full md:w-1/2 flex flex-col justify-center space-y-6">
 					<h5 class="text-3xl font-semibold">Optimized for growth</h5>
